@@ -1,1 +1,12 @@
-/agent.md
+# Test görselleri
+*.jpeg
+*.jpg
+!docs/*.jpg
+
+# Çıktı klasörü
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
